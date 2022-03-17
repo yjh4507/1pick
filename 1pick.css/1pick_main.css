@@ -547,7 +547,7 @@ footer a {
 .quick_wrap {position: fixed; right: 0; bottom: 30%; z-index: 99; display: flex; transition:all 0.4s;}
 .mo_quick {display: none;}
 .quick_wrap.on {right: -260px; transition:all 0.4s;}
-.quick_wrap > a {padding: 15px 5px; height: 160px; border-radius: 10px 0 0 10px;  background: #fab206; color: #000; text-align: center;}
+.quick_wrap > a {padding: 15px 10px; height: 160px; border-radius: 10px 0 0 10px;  background: #fab206; color: #000; text-align: center;}
 .quick_wrap > a span {writing-mode: tb-rl; display: block; letter-spacing: -2px;}
 .quick_wrap .quick_form {background: rgba(0,0,0,0.7); color: #ffb500; padding: 40px 20px; width: 260px;}
 .quick_wrap .quick_form .txt {text-align: center; margin-bottom: 20px;}
